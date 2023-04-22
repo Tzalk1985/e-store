@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tzalk1985.github.io/e-store/static/css/main.eca1cd55.css",
+    "main.js": "/Tzalk1985.github.io/e-store/static/js/main.516b5506.js",
+    "index.html": "/Tzalk1985.github.io/e-store/index.html",
+    "main.eca1cd55.css.map": "/Tzalk1985.github.io/e-store/static/css/main.eca1cd55.css.map",
+    "main.516b5506.js.map": "/Tzalk1985.github.io/e-store/static/js/main.516b5506.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eca1cd55.css",
+    "static/js/main.516b5506.js"
+  ]
+}
